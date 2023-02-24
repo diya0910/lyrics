@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+  }
+  .singer{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    color: black;
+    text-shadow: 5px 5px 9px #171716;
+  }
+  /*background of text setting*/
+  div{
+    border: 2px solid black;
+    outline: #d77a2d solid 10px;
+    margin: auto;  
+    padding: 6px;
+    display:block;
+    border-radius: 500px;
+    background-color: #0d0d0d;
+    text-align: center;
+  }
+  section{
+  font-size: 25px;
+    font-weight: bold;
+  }
+  /*background color*/
+  body{
+    background-color: #f0f098;
+    text-align: center;
+    color: white;
+  }
+  h1{
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  img{
+    display: block;
+     border-radius: 50%;
+    margin-left: auto;
+     margin-right: auto;
+    width: 15%;
+    height: 15%;
+     border: 15px solid #000000;
+    
+  }
+  h1,h2{
+   font-family:'Montserrat Alternates',san-serif;
+  }
+  strong{
+    font-size: 160%;
+   font-style: oblique;
+  }
+  span{
+    font-size: 85px;
+  }
+  porche{
+    font-size: 180%;
+     font-family: "Sofia", sans-serif;
+  }
+  a{
+    font-size: 150%;
+    font-family:'Montserrat Alternates',san-serif;
+  }
+  h2,h3{
+    font-size: 250%;  
+  }
+  
+  un{
+    font-size: 150%;
+  }
+  #power{
+    font-family: "Sofia", sans-serif;
+    padding: 2px;
+    margin: 20px;
+    font-size: 300%;
+  }
+  
